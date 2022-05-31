@@ -1,0 +1,7 @@
+.heading{
+    font-size: 30px;
+}
+body{
+    color: black;
+    background-image: linear-gradient(to right top, #ff0000, #ff002b, #ff0077, #ff00dd, #be00a5);
+}
